@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SPC-Net: Salient Prompt Combination for Foundation-Model Salient Object Detection
 
 Official code for the paper accepted at the **LVR Workshop @ WACV 2027**.
@@ -149,3 +150,6 @@ This project is released under the [MIT License](LICENSE).
 ## Acknowledgements
 
 This code builds on [ESC-Net](https://arxiv.org/abs/2411.14723), [CAT-Seg](https://github.com/cvlab-kaist/CAT-Seg), [Segment Anything](https://github.com/facebookresearch/segment-anything), [OpenCLIP](https://github.com/mlfoundations/open_clip), and [PySODMetrics](https://github.com/lartpang/PySODMetrics).
+=======
+# SPC-Net
+>>>>>>> origin/main
